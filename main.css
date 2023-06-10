@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    text-align: center;
+    text-size: 48px;
+}
+
+.recipes {
+    margin-left: 40%;
+}
