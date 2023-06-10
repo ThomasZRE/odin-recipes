@@ -1,16 +1,10 @@
 body {
     background-color: #001;
-}
-
-.container {
     color: #ffd;
-    margin-left: 10%;
-    margin-right: 10%;
 }
 
-img {
+#image {
     margin-left: 5%;
     width: 800px;
     height: 400px;
-    size: inherit;
 }
