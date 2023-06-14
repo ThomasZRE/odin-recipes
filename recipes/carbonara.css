@@ -1,3 +1,15 @@
 body {
     background-color: antiquewhite;
 }
+
+h1 {
+    text-align: center;
+}
+
+img {
+    margin: 0 20%;
+    height: 350px;
+    width: 600px;
+    border: 1px solid;
+    border-color: #e0dada8e;
+}

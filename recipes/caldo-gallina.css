@@ -3,3 +3,17 @@ body {
     color: #ffd;
 }
 
+h1 {
+    text-align: center;
+}
+
+.container {
+    align-content: center;
+}
+
+img {
+    margin: 0 20%;
+    height: 350px;
+    width: 600px;
+}
+
